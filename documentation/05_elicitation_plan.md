@@ -2,7 +2,7 @@
 
 
 
-Performed vs simulated. Only document analysis was actually performed for this project, using public sources listed in 07\_source\_log and provided in the evidence folder. Interviews with real bank staff was not done. All other techniques (observation, system walkthrough, surveys, workshops, data/system-log analysis) are planned but simulated: they describe what would be done with access to the bank, and any information they would normally provide has been replaced by documented assumptions in 00\_assumption\_register.
+Performed vs simulated. Only document analysis is actually performed for this project because no bank loan process is publicly accesible, using public sources i have listed in [07_source_log.md](07_source_log.md) and provided in the evidence folder. All other techniques (observation, system walkthrough, surveys, workshops, data/system-log analysis) are planned but simulated: they describe what would be done with access to an actual bank, and any information they would normally provide has been replaced by documented assumptions in [02_assumption_register.xlsx](02_assumption_register.xlsx).
 
 
 
