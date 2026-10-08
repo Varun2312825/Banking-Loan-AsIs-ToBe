@@ -5,13 +5,13 @@
 
 **Version:** 0.2
 
-> Rebuilt from public sources (see `07_source_log.md`). Not checked with real bank staff. Anything not backed by a source is marked **Assumption** and listed in `analysis/assumption_register.xlsx` (AS-xx).
+> built using public sources (see [`evidence/`](evidence/)).I have not validated with real bank staff. Anything not backed by a source is an **Assumption** and listed in [02_assumption_register.xlsx](analysis/02_assumption_register.xlsx) (AS-xx).
 
 ## How to read this
 
 - Each activity has a fixed ID (A1–A26). The same IDs are used in the diagrams, metrics, pain point log and gap analysis.
 - **Trigger:** each activity starts when the one before it finishes, unless the table says otherwise.
-- **Source:** S01–S09 refer to `07_source_log.md`.
+- **Sources:** S01–S09 refer to `07_source_log.md`.
 
 ## Actors and systems
 
@@ -81,7 +81,7 @@
 
 ---
 
-## What the narrative shows
+## Conclusion
 
 - **26 activities, 5 stages, 7 actors, 6 systems** (including email).
 - Customer data is **typed more than once** (A2, then again in A15–A16).
