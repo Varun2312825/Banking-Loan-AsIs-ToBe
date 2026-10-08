@@ -12,15 +12,13 @@
 
 
 
-**How I used 5 Whys:** each "why" asks about the answer above it. I stopped when the answer was something the bank can change: a rule, a system feature or a responsibility.
+**Method i used is "5 Whys":** each "why" asks about the answer above it. I stopped when the answer is something the bank can change: a rule, a system feature or a responsibility.
 
 
 
----
 
 
-
-## Root cause 1 — PP-01: the document chase
+## Root cause 1 — PP-01: the document chasing
 
 
 
@@ -65,8 +63,6 @@
 **Not the root cause:** "customers are careless" or "staff make mistakes". Mistakes will always happen. The real problem is that the process can't catch them while the customer is still there.
 
 
-
----
 
 
 
@@ -116,7 +112,6 @@
 
 
 
----
 
 
 
