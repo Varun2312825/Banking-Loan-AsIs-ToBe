@@ -6,7 +6,7 @@
 
 
 
-**Stakeholders are listed by role, not by name. Roles are what appear in the process model, and a role-based register stays valid even if people change jobs or the bank reorganises.**
+**Stakeholders are listed by role, not by name. Roles are what appear i have put the process model.**
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-| **Stakeholder role** | **Type** | **Their role in the process** | **What they care about** | **Their pain** | **How i would elicit from them** |
+| **Stakeholder role** | **Type** | **Their role in the process** | **What they want** | **Their pain point** | **How i want to elicit from them** |
 |---|---|---|---|---|---|
 | **Client (applicant)** | **External** | **Submits the application, provides KYC and income documents, accepts the sanction, signs the agreement and sets up the repayment mandate** | **Fast decision, certainty about approval, not being asked for the same thing twice** | **Repeated document requests, no visibility of application status, long wait for funds** | **Survey, review of public customer complaints and app reviews, own experience of applying for a loan** |
 | **Branch Sales Officer / Relationship Manager** | **Internal** | **Captures the application in the LOS, collects documents, forwards the file to Credit Operations, relays document requests back to the customer** | **Meeting sales targets, keeping customers happy, spending time selling rather than chasing paperwork** | **Chasing customers for missing documents, re-entering data, customers calling for status updates** | **Interview, process observation at a branch** |
@@ -42,9 +42,9 @@
 
 
 
-**Decision: Branch Sales Officer and Relationship Manager are modelled as \*\*one lane\*\*, because both perform the same work on the same object (capturing the application and collecting documents).**
+**Decision: Branch Sales Officer and Relationship Manager are modelled as one lane, because both do the same work on the same thing i.e. capturing the application and collecting documents.**
 
 
 
-**Note: The sponsor, IT owner and regulator have no lane because they do not perform tasks inside the process. They are still key stakeholders: the sponsor approves the project, IT owns every system requirement, and the regulator defines the controls that the To-Be has to preserve.**
+**Note: The sponsor, IT owner and regulator have no lane because they do not do anything inside the process. They are still key stakeholders: the sponsor approves the project, IT owns every system requirement, and the regulator defines the controls that the To-Be will have to preserve.**
 
