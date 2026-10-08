@@ -52,7 +52,7 @@
 
 
 
-**What can change:**
+**What can be changed:**
 
 - **System rule:** the application can't be submitted until every mandatory document is uploaded and readable.
 
@@ -100,7 +100,7 @@
 
 
 
-**What can change:**
+**What can be changed:**
 
 - **System feature:** add Aadhaar OTP e-sign and e-mandate to the loan system.
 
@@ -115,7 +115,7 @@
 
 
 
-## How this shapes the To-Be
+## How this affects the To-Be i have to create
 
 
 
