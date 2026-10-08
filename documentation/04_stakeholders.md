@@ -1,10 +1,13 @@
 **Project: Banking Loan Process — As-Is / To-Be**
-
 **Prepared by: Varun**
-
 **Date: 25 September 2026**
 
+a
+a
 
+a
+
+a
 
 **Stakeholders are listed by role, not by name. Roles are what appear in the process model, and a role-based register stays valid even if people change jobs or the bank reorganises.**
 
