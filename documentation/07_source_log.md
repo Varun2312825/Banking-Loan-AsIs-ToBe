@@ -2,11 +2,11 @@
 
 
 
-All sources below are public. A saved PDF of each one is in the `evidence/` folder, in case the web page changes. All sources were accessed on **25 Sep 2026**.
+All sources below are public. A saved PDF of each one is in the [`evidence/`](evidence/) folder, in case the web page changes. All sources were accessed in **Sep 2026**.
 
 
 
-Anything I could not find in these sources is an estimate, listed in `analysis/assumption_register.xlsx`.
+Anything I could not find in these sources is an estimate, listed in [`analysis/assumption_register.xlsx`](analysis/assumption_register.xlsx).
 
 
 
@@ -28,7 +28,7 @@ Anything I could not find in these sources is an estimate, listed in `analysis/a
 
 
 
-## What I used from each source
+## What I have used from each source
 
 
 
