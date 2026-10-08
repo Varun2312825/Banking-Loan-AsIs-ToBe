@@ -8,5 +8,5 @@
 
 
 
-I choose personal loan origination because it crosses five actors and five systems, has rework loops, and the industry publishes turnaround times I can baseline against.
+I chose personal loan origination because it crosses five actors and five systems, has rework loops, and the industry publishes turnaround times I can baseline against.
 

@@ -13,16 +13,13 @@ TERMINATOR (end event): Loan amount credited to customer account AND repayment s
 
 
 IN SCOPE:   application capture, document collection, KYC verification,
-
-&#x20;           credit bureau pull, income assessment, underwriting decision,
-
-&#x20;           sanction letter, agreement execution, mandate setup, disbursal
+           credit bureau pull, income assessment, underwriting decision,
+           sanction letter, agreement execution, mandate setup, disbursal
 
 
 
 OUT OF SCOPE: lead generation and marketing, secured lending, credit policy
-
-&#x20;           design, servicing after first EMI, collections, foreclosure 
+           design, servicing after first EMI, collections, foreclosure 
 
 
 
